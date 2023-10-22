@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkshawon and i am a full stack web developer
 - 👀 I’m interested in web and mobile technology
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently learning docker
 - 📫 Reach me: rkshawon36@gmail.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
