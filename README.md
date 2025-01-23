@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rkshawon and i am a full stack web developer
+- 👋 Hi, I’m @rkshawon and i am a developer
 - 👀 I’m interested in web and mobile technology
 - 🌱 I’m currently learning docker
 - 📫 Reach me: rkshawon36@gmail.com
